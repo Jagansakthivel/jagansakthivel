@@ -1,30 +1,44 @@
 <div align="center">
 
-# Hey, I'm Jagan 👋
+# Hi, I'm Jagan 👋
 
-### Building useful things with code, cloud, and AI.
-
-I’m a developer exploring full-stack applications, cloud technologies, and practical AI.
-I like turning ideas into products people can actually use.
+### Full-stack developer building practical products with TypeScript, cloud services, and AI.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jagansakthivel-181717?style=for-the-badge&logo=github)](https://github.com/Jagansakthivel)
+[![Capacity Connect](https://img.shields.io/badge/Live_Project-Capacity_Connect-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://cc-project-lyart.vercel.app/)
 
 </div>
 
 ---
 
-## 🚀 What I’m working on
+## About me
 
-- **[Capacity Connect](https://github.com/Jagansakthivel/CC_PROJECT)** — a learning and competency platform for courses, skill-gap insights, progress tracking, and AI-assisted learning.
-- **[Nolan Movies](https://github.com/Jagansakthivel/nolan-movies)** — a compact project inspired by Christopher Nolan’s films.
-- Exploring how to build better web applications and bring AI features into real workflows.
+I enjoy turning ideas into useful web applications. My current focus is building full-stack products with clean user experiences, cloud-backed data, role-based workflows, and practical AI features.
 
-## 🧰 Tech I’ve worked with
+- 🚀 Building **[Capacity Connect](https://github.com/Jagansakthivel/CC_PROJECT)**, a learning and competency platform
+- 🧠 Exploring practical AI integrations with Gemini
+- ☁️ Learning more about cloud architecture, security, testing, and CI/CD
+- 🎯 Interested in products that solve real workflow and productivity problems
+
+## Featured project
+
+### [Capacity Connect](https://github.com/Jagansakthivel/CC_PROJECT)
+
+A digital learning and competency platform for organizations.
+
+- Role-based experiences for employees, trainers, managers, and administrators
+- Course enrollment, progress tracking, assessments, and certificates
+- Competency and skill-gap management
+- AI-assisted learning features
+- React + TypeScript frontend with Firebase services
+- [View the live project](https://cc-project-lyart.vercel.app/)
+
+## Tech I work with
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -34,14 +48,21 @@ I like turning ideas into products people can actually use.
 
 </div>
 
-## 📌 Featured projects
+## What I like building
 
-| Project | What it does |
-| --- | --- |
-| [Capacity Connect](https://github.com/Jagansakthivel/CC_PROJECT) | Learning platform with courses, competency tracking, assessments, and AI assistance |
-| [Nolan Movies](https://github.com/Jagansakthivel/nolan-movies) | A movie-focused project celebrating Nolan’s filmography |
+- Full-stack web applications
+- Role-based dashboards and workflows
+- Cloud-backed products with secure data access
+- AI-assisted features that improve real user experiences
 
-## 📈 GitHub at a glance
+## Currently learning
+
+- Production-ready system design
+- Automated testing and CI/CD
+- Secure Firebase and cloud architectures
+- Reliable AI integrations
+
+## GitHub at a glance
 
 <div align="center">
 
@@ -50,6 +71,11 @@ I like turning ideas into products people can actually use.
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagansakthivel&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Jagansakthivel)
 
 </div>
+
+## Connect
+
+- GitHub: [@Jagansakthivel](https://github.com/Jagansakthivel)
+- Open to learning, collaboration, and building useful software
 
 ---
 
